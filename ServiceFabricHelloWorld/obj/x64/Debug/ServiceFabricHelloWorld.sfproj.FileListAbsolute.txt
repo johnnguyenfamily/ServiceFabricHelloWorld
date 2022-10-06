@@ -1,0 +1,1 @@
+C:\Users\jnguyen1\source\repos\ServiceFabricHelloWorld\ServiceFabricHelloWorld\obj\x64\Debug\ServiceFabricHelloWorld.sfproj.CoreCompileInputs.cache

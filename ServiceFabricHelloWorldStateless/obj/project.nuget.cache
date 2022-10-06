@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQ+wsLUbZozSB9cvEMu+A/wfBD50uSkqzpNJrK8zmhK7f7I216qIS10mjpS/ONmPLMhkXlwJgxQ5GAJEVYO7bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jnguyen1\\source\\repos\\ServiceFabricHelloWorld\\ServiceFabricHelloWorldStateless\\ServiceFabricHelloWorldStateless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\azure.data.appconfiguration\\1.2.0\\azure.data.appconfiguration.1.2.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\azure.storage.common\\12.13.0-beta.1\\azure.storage.common.12.13.0-beta.1.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\azure.storage.queues\\12.12.0-beta.1\\azure.storage.queues.12.12.0-beta.1.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric\\8.2.1571\\microsoft.servicefabric.8.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1571\\microsoft.servicefabric.data.5.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1571\\microsoft.servicefabric.data.extensions.5.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1571\\microsoft.servicefabric.data.interfaces.5.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1571\\microsoft.servicefabric.diagnostics.internal.5.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1571\\microsoft.servicefabric.services.5.2.1571.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\jnguyen1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

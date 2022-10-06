@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ServiceFabricHelloWorldStateful
+build_property.ProjectDir = C:\Users\jnguyen1\source\repos\ServiceFabricHelloWorld\ServiceFabricHelloWorldStateful\
