@@ -39,9 +39,7 @@ namespace ServiceFabricHelloWorldStateless
             //       or remove this RunAsync override if it's not needed in your service.
 
             // Connect to an App Configuration Client using a connectionstring
-            
             string _connectionString = "<App-Configuration-Endpoint>";
-            
             ConfigurationClient _client = new ConfigurationClient(_connectionString);
 
             // Read all settings using a filter
@@ -74,7 +72,7 @@ namespace ServiceFabricHelloWorldStateless
             ServiceEventSource.Current.ServiceMessage(this.Context, "AppConfigKey2-{0}", list[1].values["AppConfigKey2"]);
             ServiceEventSource.Current.ServiceMessage(this.Context, "AppConfigKey3-{0}", list[1].values["AppConfigKey3"]);
 
-			// Generate a JSON message
+            // Generate a JSON message
             string payload =
                 "{\r\n" +
                     "\"AppConfigKey1\": " + "\"" + list[1].values["AppConfigKey1"] + "\", \r\n" +
@@ -82,7 +80,7 @@ namespace ServiceFabricHelloWorldStateless
                     "\"AppConfigKey3\": " + "\"" + list[1].values["AppConfigKey3"] + "\"\r\n" +
                 "}";
 
-			// Add JSON message to the queue
+            // Add JSON message to the queue
             bool success = false;
             string accountName = "<Storage-Account-Name>";
             string accountKey = "<Storage-Account-Key>";
